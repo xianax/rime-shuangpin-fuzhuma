@@ -1,0 +1,3 @@
+patch:
+  schema/icon: "ico/ico_cn.ico"
+  schema/ascii_icon: "ico/ico_en.ico"
